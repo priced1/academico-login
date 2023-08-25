@@ -1,4 +1,4 @@
-package com.itb.mif3an.academicologin.web;
+package com.itb.mif3an.academicologin.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
